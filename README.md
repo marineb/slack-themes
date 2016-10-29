@@ -6,7 +6,15 @@ Copy the hex values, and go to `Preferences` > `Sidebar Theme` > `Custim Theme`.
 
 ## Themes
 
+
+### Glacier
+
+`#1c1c1c,#19c2cf,#19C2CF,#FFFFFF,#19C2CF,#FFFFFF,#19C2CF,#0a8491`
+![halloween](http://github.com/marineb/slack-themes/themes/halloween.png)
+
+
 ### Halloween
 
-```#000000,#FF6E14,#ff6e14,#FFFFFF,#FF6E14,#ffffff,#FF6E14,#FF6E14```
+`#000000,#FF6E14,#ff6e14,#FFFFFF,#FF6E14,#ffffff,#FF6E14,#FF6E14`
 ![halloween](http://github.com/marineb/slack-themes/themes/halloween.png)
+
