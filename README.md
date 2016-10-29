@@ -9,4 +9,4 @@ Copy the hex values, and go to `Preferences` > `Sidebar Theme` > `Custim Theme`.
 ### Halloween
 
 ```#000000,#FF6E14,#ff6e14,#FFFFFF,#FF6E14,#ffffff,#FF6E14,#FF6E14```
-<img src="/themes/halloween.png">
+[halloween](/themes/halloween.png)
